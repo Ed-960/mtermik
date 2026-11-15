@@ -10,4 +10,4 @@ free to use: profile, feed, likes and matches cost nothing; Super Like, boost an
 available in Armenian, Russian and English — for everyone studying in Armenia, including international students.
 We're preparing the launch now — feedback is very welcome!
 Try it: [mtermik]([https://mtermik.am/en]): https://mtermik.am/en
-Telegram [@mtermikbot]([https://t.me/mtermikbot?start=ad_producthunt]): https://t.me/mtermikbot?start=ad_producthunt
+Telegram [@mtermikbot]([https://t.me/mtermikbot?start=github]): https://t.me/mtermikbot?start=github
